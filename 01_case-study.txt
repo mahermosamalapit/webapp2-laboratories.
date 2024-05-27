@@ -1,0 +1,9 @@
+﻿“CASE STUDY”
+
+
+
+
+The project of the IT company is currently experiencing delays and problems; it was supposed to launch on June 1st, but it is still in development with a number of unfinished jobs, bugs unfixed, and testing not yet started. The final product's quality and the possibility of achieving the initial deadline have come under scrutiny as a result of this circumstance.
+
+
+I think the project's schedule was unduly aggressive from the perspective of a software engineer, which left little time for unforeseen problems. Furthermore, the testing procedure was not properly prioritized or planned, which led to the accumulation and unresolved of defects. The project team should have created a more flexible schedule with contingencies in place in case of unforeseen difficulties, in my opinion, to avoid these delays. To ensure that issues are found and fixed on time, the testing process should have also been given priority and included early in the project plan, with regular check-ins and milestones.
